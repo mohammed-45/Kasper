@@ -188,7 +188,7 @@ header nav .icon-search i {
 /* end heading */
 /* start landing */
 .landing {
-  background-image: url(/images/landing.jpg);
+  background-image: url("../images/landing.jpg");
   background-size: cover;
   min-height: 100vh;
   background-color: #1f2021;
@@ -314,7 +314,7 @@ header nav .icon-search i {
 .design {
   padding-right: var(--padding);
   padding-left: var(--padding);
-  background-image: url(/images/mydesign.jpg);
+  background-image: url("../images/mydesign.jpg");
   background-size: cover;
   position: relative;
   overflow: hidden;
@@ -346,7 +346,7 @@ header nav .icon-search i {
     display: none;
   }
   .design {
-    background-image: url(/images/forphones.jpg);
+    background-image: url("../images/forphones.jpg");
   }
   .design::before {
     background-color: rgb(0 0 0 / 5%);
@@ -529,7 +529,7 @@ header nav .icon-search i {
   padding-bottom: var(--padding);
   position: relative;
   text-align: center;
-  background-image: url("/images/stats2.jpg");
+  background-image: url("../images/stats2.jpg");
   background-size: cover;
 }
 .stats::before {
@@ -709,7 +709,7 @@ header nav .icon-search i {
 .quote {
   padding-top: var(--padding);
   padding-bottom: var(--padding);
-  background-image: url(/images/shuffle-8.jpg);
+  background-image: url("../images/shuffle-8.jpg");
   text-align: center;
   background-size: cover;
   color: white;
@@ -826,7 +826,7 @@ header nav .icon-search i {
 .subscribe {
   padding-top: var(--padding);
   padding-bottom: var(--padding);
-  background-image: url(/images/blue.jpg);
+  background-image: url("../images/blue.jpg");
   background-size: cover;
   color: white;
   position: relative;
@@ -983,7 +983,7 @@ header nav .icon-search i {
 .footer {
   padding-top: calc(var(--padding) / 2);
   padding-bottom: calc(var(--padding) / 2);
-  background-image: url(/images/footer2.jpg);
+  background-image: url("../images/footer2.jpg");
   background-size: cover;
   position: relative;
   color: white;
